@@ -1,0 +1,7 @@
+C:\Users\Cesar\source\repos\FoodMenuSystem\FoodMenuSystem\bin\Debug\FoodMenuSystem.exe.config
+C:\Users\Cesar\source\repos\FoodMenuSystem\FoodMenuSystem\bin\Debug\FoodMenuSystem.exe
+C:\Users\Cesar\source\repos\FoodMenuSystem\FoodMenuSystem\bin\Debug\FoodMenuSystem.pdb
+C:\Users\Cesar\source\repos\FoodMenuSystem\FoodMenuSystem\obj\Debug\FoodMenuSystem.csproj.AssemblyReference.cache
+C:\Users\Cesar\source\repos\FoodMenuSystem\FoodMenuSystem\obj\Debug\FoodMenuSystem.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\FoodMenuSystem\FoodMenuSystem\obj\Debug\FoodMenuSystem.exe
+C:\Users\Cesar\source\repos\FoodMenuSystem\FoodMenuSystem\obj\Debug\FoodMenuSystem.pdb
